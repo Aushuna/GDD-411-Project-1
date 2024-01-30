@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 2.6.1 Emojis Menu 1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Blubl bruh
+    icon: {fileID: 2800000, guid: c7f3b182158e8ac498b56159d80e68b8, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl comf
+    icon: {fileID: 2800000, guid: d93873ab17c737441a71f13b20023ab3, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl cry
+    icon: {fileID: 2800000, guid: 739cf201e6a5f0449b38e16d011ec2e9, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl ded
+    icon: {fileID: 2800000, guid: 881e5c9f02128a74b9ee4c32612d8ce1, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl derp
+    icon: {fileID: 2800000, guid: de866af58014f77409dba4a2525fc1d4, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl derp2
+    icon: {fileID: 2800000, guid: e12ebf50497fb354eafeefa05fd90aaa, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl drinking
+    icon: {fileID: 2800000, guid: 79bd8f1378ecfbf4e90d4046b4fc2128, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl drool
+    icon: {fileID: 2800000, guid: 1ab572c828ef4a046816574472602965, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

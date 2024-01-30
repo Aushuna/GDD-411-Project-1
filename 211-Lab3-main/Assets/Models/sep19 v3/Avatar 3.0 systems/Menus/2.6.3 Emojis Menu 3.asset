@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 2.6.3 Emojis Menu 3
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Blubl ree
+    icon: {fileID: 2800000, guid: 58b5e46e37720a14d9541b409a1b03bc, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 17
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl sleep
+    icon: {fileID: 2800000, guid: 550d7b54a4a49544aaf1700ebf0c8493, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 18
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl smug
+    icon: {fileID: 2800000, guid: 4bfe74758f44f614393d84aa3186291f, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 19
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl stare
+    icon: {fileID: 2800000, guid: 7fed43d6e6c6a2a4398ab63003ce83c2, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 20
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl stare blush
+    icon: {fileID: 2800000, guid: 02fedb72061b79641bcee951373399d5, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 21
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl stare mad
+    icon: {fileID: 2800000, guid: e2205ebcea3aa604ba6e1ac7202e6299, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 22
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl tailwag
+    icon: {fileID: 2800000, guid: 033dc52cfbf17bc438e0b70b4340c99b, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 23
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blubl wasted
+    icon: {fileID: 2800000, guid: a236b91b5d082eb4996ddcd765fa4b6e, type: 3}
+    type: 101
+    parameter:
+      name: Emojis
+    value: 24
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

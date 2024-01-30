@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 2.4.1 Tail Ear controll Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Tail IK right
+    icon: {fileID: 2800000, guid: f6c289ca5c243470198f39f6517123fd, type: 3}
+    type: 102
+    parameter:
+      name: IK_right
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tail IK left
+    icon: {fileID: 2800000, guid: f6c289ca5c243470198f39f6517123fd, type: 3}
+    type: 102
+    parameter:
+      name: IK_left
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Ear controller
+    icon: {fileID: 2800000, guid: b772fe517e4d67c40823799779c82eed, type: 3}
+    type: 201
+    parameter:
+      name: ear_controll
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: TailH
+    - name: TailV
+    labels:
+    - name: Ears up
+      icon: {fileID: 0}
+    - name: Ears right
+      icon: {fileID: 0}
+    - name: Ears down
+      icon: {fileID: 0}
+    - name: Ears left
+      icon: {fileID: 0}
+  - name: Tail controller
+    icon: {fileID: 2800000, guid: 033dc52cfbf17bc438e0b70b4340c99b, type: 3}
+    type: 201
+    parameter:
+      name: tail_controll
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: TailH
+    - name: TailV
+    labels:
+    - name: Tail up
+      icon: {fileID: 0}
+    - name: Tail right
+      icon: {fileID: 0}
+    - name: Tail down
+      icon: {fileID: 0}
+    - name: Tail left
+      icon: {fileID: 0}

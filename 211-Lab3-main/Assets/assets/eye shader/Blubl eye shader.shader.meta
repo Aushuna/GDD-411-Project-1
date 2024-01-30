@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1897a3d6d8d04014c93a129b42220c66
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _IrisScale: {fileID: 2800000, guid: 7223d96035618334aa79a9b258943a84, type: 3}
+  - _PupilScale: {fileID: 2800000, guid: c42107505e17fd64289c33a087458751, type: 3}
+  - _PupilTex: {fileID: 2800000, guid: 25aac39c7b972854495b0fdb3d6af319, type: 3}
+  - _IrisTex: {fileID: 2800000, guid: c360c1d87afce82429c1fe148200784a, type: 3}
+  - _NormalTex: {fileID: 2800000, guid: aef838d83f2e3984a8c4620c1cfc3059, type: 3}
+  - _HighLightTex: {fileID: 2800000, guid: 3b4912d762b7e2a43bd6c6a568e53334, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
